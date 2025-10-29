@@ -20,7 +20,7 @@ Place the app wherever you want to download videos / audios
 Make sure that FFMPEG is installed in your device
 ## Usage/Examples
 
-1. Open the app
+1. Open the app by `chmod +x main.bin` and `./main.bin`
 2. Enter YouTube URL and click download button
 ## Tech Stack
 
