@@ -26,7 +26,7 @@ Make sure that FFMPEG is installed in your device
 
 **Language:** Python
 
-**Library:** FFMPEG, Send2Trash, Pytube, requests
+**Library:** FFMPEG, Send2Trash, Pytube, requests, customTkinter
 ## Authors
 
 - [@KRO256](https://www.github.com/KRO256)
