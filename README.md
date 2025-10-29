@@ -18,6 +18,6 @@ Make sure that FFMPEG is installed in your device
 ## Tech Stack
 **Language:** Python
 
-**Library:** FFMPEG, Send2Trash, Pytubefix, requests, customTkinter
+**Library:** FFMPEG, Send2Trash, Pytubefix, requests, customTkinter, nuitka
 ## Authors
 - [@KRO256](https://www.github.com/KRO256)
