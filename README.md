@@ -11,6 +11,9 @@ YouTube audio / video downloader
 ## Installation
 Place the app wherever you want to download videos / audios
 Make sure that FFMPEG is installed in your device
+## FFMPEG Installation
+### Linux
+Use your favorite package manager to install FFMPEG or build it
 ## Usage/Examples
 ### Linux
 1. Open the app by using `chmod +x main.bin` and `./main.bin` in terminal
